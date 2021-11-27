@@ -4,7 +4,7 @@
 
 🔭 Atualmente, estou trabalhando no meu BOT para servidores do Discord
 
-💬 Seja luz, e não deixe que outros desenvolvedores diminuem você, por ainda não ter o conhecimento necessário!
+💬 Seja luz, e não deixe que outros desenvolvedores diminuam você, por ainda não ter o conhecimento necessário!
 
 ----
 
